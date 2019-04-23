@@ -8,3 +8,7 @@ The goal of Pancakes is to provide an overview as well as open source examples f
 The smart contract examples are based on best practices of blockchain infrastructure use cases.
 
 Documentation includes curated resources, libraries, tools and more for the creation of smart contracts. Step-by-step instructions, images and screenshots will be part of the documentation.
+
+## Getting started
+
+[Articles and Documentation](/resources)
