@@ -1,15 +1,13 @@
-# Smart Contracts - A collection of articles and documentation to get started
+# Smart Contracts - Getting started with a collection of articles and documentation
 
 ### Contents
-- [Resources](#resources)
+- [Introduction](#introduction)
 - [Articles](#articles)
-- [Official Documentation](#official-documentation)
+- [Examples](#examples)
 
-## Resources
+## Introduction
 
 - [What is a Smart Contract](https://en.m.wikipedia.org/wiki/Smart_contract) - Smart Contract Introduction, via [Wikipedia](https://en.wikipedia.org/)
-
-- [Bitcoin Multisig](https://en.bitcoin.it/wiki/Multisignature) - An introduction with examples of Bitcoin Multisignature, via [Bitcoin Wiki](https://en.bitcoin.it/)
 
 ## Articles
 
@@ -19,6 +17,9 @@
 
 - [The Truth about Smart Contracts](https://medium.com/@jimmysong/the-truth-about-smart-contracts-ae825271811f) - Context, limitations and challenges w/ Smart Contracts, via [Jimmy Song](https://medium.com/@jimmysong)
 
-## Official Documentation
+- [How does Ethereum work, anyway?
+](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369) - Intro to Ethereum from a technical level view with diagrams, via [Preethi Kasireddy](https://medium.com/@preethikasireddy)
 
-- [Stellar Smart Contracts](https://www.stellar.org/developers/guides/walkthroughs/stellar-smart-contracts.html) - Stellar Docs, via [stellar.org](https://www.stellar.org)
+## Examples
+
+- [Bitcoin Multisig](https://en.bitcoin.it/wiki/Multisignature) - An introduction with application examples of Bitcoin Multisignature, via [Bitcoin Wiki](https://en.bitcoin.it/)
