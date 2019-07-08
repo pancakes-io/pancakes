@@ -19,4 +19,10 @@ via [Sava Gerov](https://medium.com/@sgerov)
 
 ![blockchain_dev](../img/smart_contracts/should_I_develop_for_blockchain/01.png)
 
+### [The Truth about Smart Contracts](https://medium.com/@jimmysong/the-truth-about-smart-contracts-ae825271811f)  
+via [Jimmy Song](https://medium.com/@jimmysong)
+
+![truth_sc](../img/smart_contracts/the_truth_about_smart_contracts/01.png)
+
+
 
