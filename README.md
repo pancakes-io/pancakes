@@ -1,5 +1,7 @@
 # Pancakes
 
+<img src="https://github.com/pancakes-io/pancakes/raw/master/img/pancakes_logo.png" width="100">
+
 ## A collection of open source resources for smart contracts
 
 Projects using smart contracts rarely offer their solutions under an open source license. Pancakes aims to be a curated collection of open source smart contracts, resources and best practices for developing them.

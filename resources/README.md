@@ -1,5 +1,7 @@
 # Smart Contracts - Getting started with a collection of articles and documentation
 
+<img src="https://github.com/pancakes-io/pancakes/raw/master/img/smart-contracts-intro.png">
+
 ### Contents
 - [Introduction](#introduction)
 - [Articles](#articles)
