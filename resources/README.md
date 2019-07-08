@@ -3,7 +3,6 @@
 ### Contents
 - [Introduction](#introduction)
 - [Articles](#articles)
-- [Examples](#examples)
 
 ## Introduction
 
@@ -19,7 +18,3 @@
 
 - [How does Ethereum work, anyway?
 ](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369) - Intro to Ethereum from a technical level view with diagrams, via [Preethi Kasireddy](https://medium.com/@preethikasireddy)
-
-## Examples
-
-- [Bitcoin Multisig](https://en.bitcoin.it/wiki/Multisignature) - An introduction with application examples of Bitcoin Multisignature, via [Bitcoin Wiki](https://en.bitcoin.it/)

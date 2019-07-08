@@ -13,6 +13,7 @@ Documentation includes curated resources, libraries, tools and more for the crea
 
 - [Introduction and getting started](/resources)
 - [Tutorials](#tutorials)
+- [Examples](#examples)
 - [Security](#security)
 - [Official Documentation](#official-documentation)
 - [Tools](#tools)
@@ -27,6 +28,10 @@ Documentation includes curated resources, libraries, tools and more for the crea
 - [Hello World Voting Ethereum Dapp](https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-1-40d2d0d807c2) - A simple ‘Hello World!’ voting application to learn the process of compiling, deploying and interacting with the application.
 
 - [Solidity Tutorials and Courses](https://hackr.io/tutorials/learn-solidity) - Tutorials and Courses on Solidity by the Hackr.io Community
+
+#### Examples
+
+- [Bitcoin Multisig](https://en.bitcoin.it/wiki/Multisignature) - An introduction to Bitcoin Multisignature with application examples, via [Bitcoin Wiki](https://en.bitcoin.it/)
 
 #### Security
 
