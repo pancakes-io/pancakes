@@ -13,10 +13,10 @@ Documentation includes curated resources, libraries, tools and more for the crea
 
 - [Introduction and getting started](/resources)
 - [Resources](#resources)
-- [Tutorials](#tutorials)
-- [Examples](#examples)
-- [Security](#security)
-- [Official Documentation](#official-documentation)
+    - [Tutorials](#tutorials)
+    - [Examples](#examples)
+    - [Security](#security)
+    - [Official Documentation](#official-documentation)
 - [Tools](#tools)
     - [Utilities](#utilities)
 
@@ -30,7 +30,7 @@ Documentation includes curated resources, libraries, tools and more for the crea
 
 - [Hello World Voting Ethereum Dapp](https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-1-40d2d0d807c2) - A simple ‘Hello World!’ voting application to learn the process of compiling, deploying and interacting with the application.
 
-- [Learning Solidity](https://github.com/willitscale/learning-solidity) - Youtube Tutorial series developing a solidity smart contract with source code companion 
+- [Learning Solidity](https://github.com/willitscale/learning-solidity) - Youtube Tutorial series with source code companion where you'll learn to develop a solidity smart contract, creating your own crypto and more.
 
 - [Solidity Tutorials and Courses](https://hackr.io/tutorials/learn-solidity) - Tutorials and Courses on Solidity by the Hackr.io Community
 
