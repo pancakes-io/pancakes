@@ -24,5 +24,7 @@ via [Jimmy Song](https://medium.com/@jimmysong)
 
 ![truth_sc](../img/smart_contracts/the_truth_about_smart_contracts/01.png)
 
+### [Stellar Smart Contracts](https://www.stellar.org/developers/guides/walkthroughs/stellar-smart-contracts.html)  
+via [stellar.org](https://www.stellar.org)
 
-
+![stellar](../img/smart_contracts/stellar/01.png)
