@@ -9,15 +9,18 @@ The smart contract examples are based on best practices of blockchain infrastruc
 
 Documentation includes curated resources, libraries, tools and more for the creation of smart contracts. Step-by-step instructions, images and screenshots will be part of the documentation.
 
-## Resources
+### Contents
 
 - [Introduction and getting started](/resources)
+- [Resources](#resources)
 - [Tutorials](#tutorials)
 - [Examples](#examples)
 - [Security](#security)
 - [Official Documentation](#official-documentation)
 - [Tools](#tools)
     - [Utilities](#utilities)
+
+## Resources
 
 #### Tutorials
 
