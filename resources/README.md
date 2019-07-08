@@ -2,6 +2,11 @@
 
 ## A collection of articles and documentation to get started
 
+### [What is a Smart Contract](https://en.m.wikipedia.org/wiki/Smart_contract)  
+via [Wikipedia](https://en.wikipedia.org/)
+
+![wiki_smart_contracts](../img/smart_contracts/wiki_smart_contracts/01.png)
+
 ### [Comparison of Smart Contract Platforms](https://hackernoon.com/comparison-of-smart-contract-platforms-2796e34673b7)  
 via [Michiel Mulders](https://hackernoon.com/@michielmulders)
 
