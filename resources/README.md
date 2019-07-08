@@ -14,4 +14,9 @@ via [Bitcoin Wiki](https://en.bitcoin.it/)
 
 ![bitcoin_multisig](../img/smart_contracts/multisig/01.png)
 
+### [Should I develop for blockchain?](https://medium.com/coinmonks/should-i-develop-for-blockchain-d3321a6faecd)  
+via [Sava Gerov](https://medium.com/@sgerov)
+
+![blockchain_dev](../img/smart_contracts/should_I_develop_for_blockchain/01.png)
+
 
