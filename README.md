@@ -30,6 +30,8 @@ Documentation includes curated resources, libraries, tools and more for the crea
 
 - [Hello World Voting Ethereum Dapp](https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-1-40d2d0d807c2) - A simple ‘Hello World!’ voting application to learn the process of compiling, deploying and interacting with the application.
 
+- [Learning Solidity](https://github.com/willitscale/learning-solidity) - Youtube Tutorial series developing a solidity smart contract with source code companion 
+
 - [Solidity Tutorials and Courses](https://hackr.io/tutorials/learn-solidity) - Tutorials and Courses on Solidity by the Hackr.io Community
 
 #### Examples
@@ -51,6 +53,8 @@ Documentation includes curated resources, libraries, tools and more for the crea
 ## Tools
 
 #### Utilities
+
+- [Remix](http://remix.ethereum.org) - A web browser based IDE that allows you to write and run Solidity smart contracts.
 
 - [Solidity REPL](https://github.com/raineorshine/solidity-repl) - Solidity REPL Command Line Interface.
 
