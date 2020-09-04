@@ -1,0 +1,43 @@
+## Notarization (& Proof of Existence)
+
+```solidity
+pragma solidity ^0.5.0;
+
+contract ProofOfExistence {
+    
+    event ProofCreated(
+        uint256 indexed id,
+        bytes32 documentHash
+    );
+
+    address public owner;
+  
+    mapping (uint256 => bytes32) hashesById;
+
+    modifier onlyOwner() {
+        require(msg.sender == owner, "Only the owner is allowed to access this function.");
+        _;
+    }
+
+    modifier noHashExistsYet(uint256 id) {
+        require(hashesById[id] == "", "No hash exists for this id.");
+        _;
+    }
+
+    constructor() public {
+        owner = msg.sender;
+    }
+
+    function notarizeHash(uint256 id, bytes32 documentHash) public onlyOwner noHashExistsYet(id) {
+        hashesById[id] = documentHash;
+
+        emit ProofCreated(id, documentHash);
+    }
+
+    function doesProofExist(uint256 id, bytes32 documentHash) public view returns (bool) {
+        return hashesById[id] == documentHash;
+    }
+}
+```
+
+[ProofOfExistence.sol](https://github.com/ramyhardan/proof-of-existence/blob/master/contracts/ProofOfExistence.sol "ProofOfExistence.sol") (license: MIT) by [Ramy Hardan](https://github.com/ramyhardan "Ramy Hardan")
