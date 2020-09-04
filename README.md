@@ -76,4 +76,6 @@ Documentation includes curated resources, libraries, tools and more for the crea
 
 - [Solidity REPL](https://github.com/raineorshine/solidity-repl) - Solidity REPL Command Line Interface.
 
+## Further Reading
 
+[Smart Contracts: 12 Use Cases for Business & Beyond](https://digitalchamber.org/assets/smart-contracts-12-use-cases-for-business-and-beyond.pdf "Smart Contracts: 12 Use Cases for Business & Beyond")
