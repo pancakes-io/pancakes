@@ -10,6 +10,14 @@ Even more challenging, some people are publishing templates for smart contracts 
 >
 > The objectives of smart contracts are the reduction of need in trusted intermediators, arbitrations and enforcement costs, fraud losses, as well as the reduction of malicious and accidental exceptions.
 
+## Scope
+
+In this collection we focused on the most popular use cases for smart contracts at the time
+
+* known author(s)
+* available under an open source license
+* limited in scope and complexity
+
 ## A collection of open source resources for smart contracts
 
 Projects using smart contracts rarely offer their solutions under an open source license. Pancakes aims to be a curated collection of open source smart contracts, resources and best practices for developing them.
