@@ -354,3 +354,5 @@ contract FixedSupplyToken is ERC20Interface, Owned {
     }
 }
 ```
+
+based on [FixedSupplyToken.sol](https://github.com/bokkypoobah/Tokens/blob/master/contracts/FixedSupplyToken.sol "FixedSupplyToken.sol") (license: MIT)
