@@ -2,6 +2,14 @@
 
 <img src="https://github.com/pancakes-io/pancakes/raw/master/img/pancakes_logo.png" width="100">
 
+Smart Contracts are currently getting a lot of attention. Unfortunately if you want to write smart contracts and use them it can be quite challenging to get started. Compared to more mature areas of software development the platforms and documentation around smart contracts is evolving rapidly. Documentation often is out of date and code examples are difficult to come by.
+
+Even more challenging, some people are publishing templates for smart contracts that include vulnerabilities on purpose in order to exploit them in the future in case they get used.
+
+> A smart contract is a computer program or a transaction protocol which is intended to automatically execute, control or document legally relevant events and actions according to the terms of a contract or an agreement.
+>
+> The objectives of smart contracts are the reduction of need in trusted intermediators, arbitrations and enforcement costs, fraud losses, as well as the reduction of malicious and accidental exceptions.
+
 ## A collection of open source resources for smart contracts
 
 Projects using smart contracts rarely offer their solutions under an open source license. Pancakes aims to be a curated collection of open source smart contracts, resources and best practices for developing them.
